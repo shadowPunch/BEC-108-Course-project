@@ -39,7 +39,7 @@ This project constructs a **3D homology model** of the *B. cepacia* biphenyl-2,3
 ├── 33dcb_distance.png     # 33DCB docking
 ├── 44dcb_final.png        # 44DCB docking
 ├── mutant.png             # PHE227→ALA mutant
-├── report.tex             # LaTeX source
+├── homology_modelling_report.pdf             # Report
 └── README.md
 ```
 
